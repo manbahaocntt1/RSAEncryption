@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSAEncrytion", "RSAEncrytion\RSAEncrytion.csproj", "{6F50005F-C879-4D31-9415-D5127152D57D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsRsa", "WindowsFormsRsa\WindowsFormsRsa.csproj", "{FC187493-366C-45D1-8F07-5F52AAAC0D6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F50005F-C879-4D31-9415-D5127152D57D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F50005F-C879-4D31-9415-D5127152D57D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F50005F-C879-4D31-9415-D5127152D57D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F50005F-C879-4D31-9415-D5127152D57D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC187493-366C-45D1-8F07-5F52AAAC0D6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC187493-366C-45D1-8F07-5F52AAAC0D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC187493-366C-45D1-8F07-5F52AAAC0D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC187493-366C-45D1-8F07-5F52AAAC0D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DA4FDE9-9644-496E-A70C-3A604B3876D3}
+	EndGlobalSection
+EndGlobal
